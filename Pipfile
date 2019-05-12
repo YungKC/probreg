@@ -12,9 +12,11 @@ scipy = "*"
 scikit-learn = "==0.20.3"
 matplotlib = "*"
 "e1839a8" = {path = ".", editable = true}
+"dq3d" = "*"
 
 [dev-packages]
 sphinx = "*"
+twine = "*"
 "flake8" = "*"
 sphinx-rtd-theme = "*"
 
